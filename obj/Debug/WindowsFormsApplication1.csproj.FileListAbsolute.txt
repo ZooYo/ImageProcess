@@ -1,0 +1,67 @@
+c:\users\std\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\std\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\std\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\std\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\std\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\std\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\std\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\std\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\std\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\STD\Documents\Visual Studio 2013\Projects\grayscale\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\STD\Documents\Visual Studio 2013\Projects\grayscale\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\STD\Documents\Visual Studio 2013\Projects\grayscale\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\STD\Desktop\影像處理\negative\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\STD\Desktop\影像處理\negative\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\STD\Desktop\影像處理\negative\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\STD\Desktop\影像處理\negative\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\STD\Desktop\影像處理\negative\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\STD\Desktop\影像處理\negative\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\STD\Desktop\影像處理\negative\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\STD\Desktop\影像處理\negative\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\STD\Desktop\影像處理\negative\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\STD\Desktop\影像處理\Power–law\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\STD\Desktop\影像處理\Power–law\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\STD\Desktop\影像處理\Power–law\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\STD\Desktop\影像處理\Power–law\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\STD\Desktop\影像處理\Power–law\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\STD\Desktop\影像處理\Power–law\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\STD\Desktop\影像處理\Power–law\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\STD\Desktop\影像處理\Power–law\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\STD\Desktop\影像處理\Power–law\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\巫佶翰\study\影像辨識技術\作業\Power–law\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\巫佶翰\study\影像辨識技術\作業\Power–law\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\巫佶翰\study\影像辨識技術\作業\Power–law\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\巫佶翰\study\影像辨識技術\作業\Power–law\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\巫佶翰\study\影像辨識技術\作業\Power–law\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\巫佶翰\study\影像辨識技術\作業\Power–law\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\巫佶翰\study\影像辨識技術\作業\Power–law\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\巫佶翰\study\影像辨識技術\作業\Power–law\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\巫佶翰\study\影像辨識技術\作業\Power–law\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\巫佶翰\study\影像辨識技術\作業\histogram equalization\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\巫佶翰\study\影像辨識技術\作業\histogram equalization\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\巫佶翰\study\影像辨識技術\作業\histogram equalization\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\巫佶翰\study\影像辨識技術\作業\histogram equalization\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\巫佶翰\study\影像辨識技術\作業\histogram equalization\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\巫佶翰\study\影像辨識技術\作業\histogram equalization\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\巫佶翰\study\影像辨識技術\作業\histogram equalization\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\巫佶翰\study\影像辨識技術\作業\histogram equalization\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\巫佶翰\study\影像辨識技術\作業\histogram equalization\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\巫佶翰\study\影像辨識技術\作業\all\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\巫佶翰\study\影像辨識技術\作業\all\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\巫佶翰\study\影像辨識技術\作業\all\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\巫佶翰\study\影像辨識技術\作業\all\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\巫佶翰\study\影像辨識技術\作業\all\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\巫佶翰\study\影像辨識技術\作業\all\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\巫佶翰\study\影像辨識技術\作業\all\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\巫佶翰\study\影像辨識技術\作業\all\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\巫佶翰\study\影像辨識技術\作業\all\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\saop0\Desktop\class\影像\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\saop0\Desktop\class\影像\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\saop0\Desktop\class\影像\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\saop0\Desktop\class\影像\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\saop0\Desktop\class\影像\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\saop0\Desktop\class\影像\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\saop0\Desktop\class\影像\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\saop0\Desktop\class\影像\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\saop0\Desktop\class\影像\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\saop0\Desktop\class\影像\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
